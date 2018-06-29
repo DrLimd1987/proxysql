@@ -11,3 +11,5 @@ Benchmarks and old blog posts can be found at http://www.proxysql.blogspot.com/
 Forum: https://groups.google.com/forum/#proxysql/  
 Wiki: https://github.com/sysown/proxysql/wiki/  
 Linkedin group: https://www.linkedin.com/groups/13581070/
+
+中文手册(马龙帅翻译)：https://github.com/malongshuai/proxysql/wiki/
