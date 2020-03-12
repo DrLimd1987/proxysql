@@ -21,3 +21,5 @@ About Me
     - www.junmajinlong.com
     - (博客园--骏马金龙)https://www.cnblogs.com/f-ck-need-u/
 - ProxySQL博客：[ProxySQL循序渐进](https://www.cnblogs.com/f-ck-need-u/p/7586194.html#middleware)
+- **姊妹篇中文手册**：
+    - MySQL组复制MGR中文手册：[MySQL组复制官方手册翻译](https://github.com/malongshuai/MySQL-Group-Replication)
