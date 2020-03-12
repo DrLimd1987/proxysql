@@ -16,8 +16,8 @@ About Me
 ======
 
 - ProxySQL中文翻译：https://github.com/malongshuai/proxysql/wiki/
-- 翻译人员：马龙帅
+- 翻译人员：骏马金龙(马龙帅)
 - 个人blog：
     - www.junmajinlong.com
-    - https://www.cnblogs.com/f-ck-need-u/
+    - (博客园--骏马金龙)https://www.cnblogs.com/f-ck-need-u/
 - ProxySQL博客：[ProxySQL循序渐进](https://www.cnblogs.com/f-ck-need-u/p/7586194.html#middleware)
